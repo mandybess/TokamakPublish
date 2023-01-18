@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
   name: "TokamakPublish",
-  platforms: [.macOS(.v11)],
+  platforms: [.macOS(.v12)],
   products: [
     .library(
       name: "TokamakPublish",
